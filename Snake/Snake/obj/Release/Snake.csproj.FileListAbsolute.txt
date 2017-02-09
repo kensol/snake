@@ -1,0 +1,5 @@
+D:\DOC_ИГОРЬ\snake\Snake\Snake\bin\Release\Snake.exe.config
+D:\DOC_ИГОРЬ\snake\Snake\Snake\bin\Release\Snake.exe
+D:\DOC_ИГОРЬ\snake\Snake\Snake\bin\Release\Snake.pdb
+D:\DOC_ИГОРЬ\snake\Snake\Snake\obj\Release\Snake.exe
+D:\DOC_ИГОРЬ\snake\Snake\Snake\obj\Release\Snake.pdb
